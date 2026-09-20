@@ -91,13 +91,3 @@ rc-speedboat-prototype/
 |-- .gitignore
 `-- README.md
 ```
-
-## Future Improvements
-
-- Add the final CAD model and dimensioned fabrication drawings
-- Add the original boat-template sketch and annotated CAD screenshots
-- Record exact battery, ESC, motor, propeller, and camera specifications
-- Include circuit diagrams and wiring documentation
-- Improve waterproofing and electronics protection
-- Compare different propeller, motor, and hull configurations
-- Publish measured speed, runtime, and maneuverability results
