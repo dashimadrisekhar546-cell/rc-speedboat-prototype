@@ -40,9 +40,9 @@ The following list documents the major systems used or planned for the prototype
 |---|---|---|
 | Hull structure | Provides the boat body and buoyancy | Fiberglass / glass-fiber laminate or fiberglass-reinforced structure; record the final layup |
 | Core or internal frame | Supports the hull and mounting points | Foam, wood, or other core material; document material and thickness |
-| Motor | Produces propulsion power | Motor type, KV or RPM rating, voltage, and mounting pattern |
+| Motor | Produces propulsion power | 1000 KV motor; confirm motor type, voltage, and mounting pattern |
 | ESC | Controls motor speed and direction | Current rating, input voltage, cooling method, and battery connector |
-| Battery | Supplies electrical power | Chemistry, cell count or voltage, capacity, discharge rating, and runtime |
+| Battery | Supplies electrical power | 3500 mAh battery; confirm chemistry, cell count or voltage, discharge rating, and runtime |
 | Propeller | Converts motor power into thrust | Diameter, pitch, blade count, shaft size, and rotation direction |
 | Camera | Provides onboard or FPV video | Camera model, resolution, mounting position, and power supply |
 | Steering servo and rudder | Controls the boat direction | Servo torque, rudder dimensions, linkage, and steering angle |
