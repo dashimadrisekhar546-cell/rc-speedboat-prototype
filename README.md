@@ -44,11 +44,13 @@ The following list documents the major systems used or planned for the prototype
 | ESC | Controls motor speed and direction | Current rating, input voltage, cooling method, and battery connector |
 | Battery | Supplies electrical power | 3500 mAh battery; confirm chemistry, cell count or voltage, discharge rating, and runtime |
 | Propeller | Converts motor power into thrust | Diameter, pitch, blade count, shaft size, and rotation direction |
-| Camera | Provides onboard or FPV video | Camera model, resolution, mounting position, and power supply |
+| Camera | Provides onboard or FPV video | DJI camera; confirm the exact model, resolution, mounting position, and power supply |
+| Camera mount and enclosure | Holds and protects the camera | Mounting angle, vibration isolation, waterproofing, and cable routing |
 | Steering servo and rudder | Controls the boat direction | Servo torque, rudder dimensions, linkage, and steering angle |
 | Radio transmitter and receiver | Provides remote control | Radio frequency, number of channels, and operating range |
 | Shaft, coupling, and mount | Transfers motor torque to the propeller | Shaft diameter, coupling type, alignment, and sealing method |
 | Waterproofing | Protects electronics from water | Enclosure, cable glands, sealant, and hatch sealing method |
+| Wiring and connectors | Connects the battery, ESC, receiver, motor, and camera | Connector types, wire gauge, power distribution, and switch/fuse details |
 
 ## System Integration
 
@@ -58,7 +60,7 @@ The main system layout is:
 Battery -> ESC -> Motor -> Shaft/Coupling -> Propeller
              |
              +-> Receiver and steering servo/rudder
-             +-> Camera or FPV electronics (if installed)
+             +-> DJI camera and video electronics
 ```
 
 Correct battery, ESC, and motor matching is essential. Before operation, verify polarity, connector compatibility, ESC current capacity, motor cooling, propeller clearance, shaft alignment, and waterproofing.
